@@ -12,6 +12,7 @@ Eigenschaften:
 In diesem Job gibt es einen F6 Menu. Dort habt ihr z.B Kamera, Mikrofon und ... . Mit /akhbar könnt ihr nach jeden 2 Stunden eine Nachricht über die Situation im Server schreiben und somit bekommt ihr Automatik 25000 Geld.  
 
 Installation 
+
 Importieren in Ihre Datenbank esx_Journalistjob.sql Fügen Sie diese zu Ihrem Server 
 hinzu.cfg: start esx_Journalistjob 
 Wenn Sie spielermanagement möchten, müssen Sie Config.EnablePlayerManagementtrueconfig.lua 
