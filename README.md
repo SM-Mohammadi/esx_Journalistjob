@@ -9,4 +9,5 @@ Hallo zusammen, ich habe dieses Script geschrieben, weil bisher sowas in FiveM n
 Installation
 
 Importieren in Ihre Datenbank esx_Journalistjob.sql Fügen Sie diese zu Ihrem Server hinzu.cfg: start esx_Journalistjob Wenn Sie spielermanagement möchten, müssen Sie Config.EnablePlayerManagementtrueconfig.lua Wenn Sie Rüstungsmanagement wollen, müssen Sie auf Config.EnableArmoryManagementtrueconfig.lua
+
 Dev: SM
